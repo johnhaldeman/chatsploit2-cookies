@@ -1,0 +1,22 @@
+{
+  "name": "chatsploit2-cookies",
+  "version": "1.0.0",
+  "description": "Simple wrapper for cookies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhaldeman/chatsploit2-cookies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnhaldeman/chatsploit2-cookies/issues"
+  },
+  "homepage": "https://github.com/johnhaldeman/chatsploit2-cookies#readme",
+  "dependencies": {
+    "cookie": "^0.6.0"
+  }
+}
